@@ -1,3 +1,5 @@
+//install node js in your pc
+//type localhost:2001/req.url
 
 const http=require("http");
 const fs=require("fs");
